@@ -1,28 +1,25 @@
 # Hi, I’m Eya 👋
 
-💻 student at fsm , pursuing a Bachelor’s degree in Software Engineering and Information Systems.</br>
-✨ Currently building small projects to strengthen my foundations and gradually move toward more advanced systems.</br>
+I’m a Software Engineering and Information Systems student at FSM, passionate about exploring the depths of computer science, AI, and innovative technology.
 
-# 💻 Technologies & tools:
-**Comfortable with:**
-- Java
-- C
-- C++
-- C#
-- .NET
-- HTML, CSS
-- Bootstrap
+Currently, I’m focusing on strengthening my foundations, building and experimenting with small projects to gain practical experience, and gradually working toward complex systems and AI-driven applications.
 
-**Learning & practicing:**
-- JavaScript
-- Python
-- NumPy
-- Pandas
+<h2>Technologies & Tools</h2>
+
+Learning & Practicing:
+
+  - AI, Machine Learning, and real-world application development
+  - Python 
+  - Java , C , C++ , C# , .NET 
+  - HTML, CSS, Bootstrap, JavaScript
+  - sql
   
-### 🚀 Current Focus
-- Building small website and software projects
-- Strengthening software engineering fundamentals
-- Expanding my practical experience step by step
+<h2>Current Focus</h2>
+
+- Building websites and software projects that solve real problems
+- Expanding my knowledge in computer science fundamentals and AI
+- Designing and implementing innovative solutions
+- Turning ideas into practical applications with real impact
 
 
 ###  Random Dev Quote
